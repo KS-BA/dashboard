@@ -6,7 +6,6 @@ dash-renderer==1.9.1
 dash-table==4.11.3
 Flask-Compress==1.9.0
 future==0.18.2
-gmpy2==2.0.8
 h5py==2.10.0
 HeapDict==1.0.1
 jdcal==1.4.1
